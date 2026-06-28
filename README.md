@@ -1,6 +1,8 @@
-# Descrição
-Algoritmos de processamento para análise morfológica de perfis melódicos, ou *análise morfo-ondulatória*.
+# Análise Morfo-Ondulatória
 
-# Requisitos (bibliotecas)
+## Descrição
+Algoritmos de processamento de dados voltados à analise de perfis melódicos (*análise morfo-ondulatória*).
+
+## Requisitos (bibliotecas)
 - Mido
 - Matplotlib
