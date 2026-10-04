@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Se utilizar este software, por favor cite conforme abaixo."
+title: "Análise Morfo-Ondulatória: um modelo distribucional de perfis melódicos"
+abstract: >-
+  Implementação computacional de um modelo analítico de perfis melódicos
+  fundamentado na estatística descritiva. O sistema converte arquivos MIDI
+  em tabelas estatísticas, particiona a série temporal em janelas de duração
+  fixa e calcula descritores de tendência central e dispersão (média simples
+  de alturas, média simples de durações, média simples de som e silêncio,
+  média ponderada de alturas por durações, desvio padrão de alturas e desvio
+  padrão de durações), cujos resultados são representados graficamente ao
+  longo do tempo.
+type: software
+authors:
+  - family-names: "Xavier"
+    given-names: "Gabriel F."
+    affiliation: "Universidade Estadual Paulista (UNESP)"
+repository-code: "https://github.com/xafer-gab/analise_morfo-ondulatoria"
+url: "https://doi.org/10.5281/zenodo.23141413"
+license: MIT
+version: "1.0"
+doi: "10.5281/zenodo.23141413"
+date-released: "2026-10-04"
+keywords:
+  - análise musical
+  - morfologia melódica
+  - contorno melódico
+  - estatística descritiva
+  - MIDI
+  - musicologia computacional
