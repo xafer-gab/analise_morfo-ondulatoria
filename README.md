@@ -207,7 +207,7 @@ Ao selecionar a opção 1, o usuário acessa o menu de análise e renderização
 
 ## Referência
 
-XAVIER, Gabriel F. **Modelo distribucional de perfis melódicos: uma abordagem morfológica**. Outubro de 2026. Texto em prelo.
+XAVIER, Gabriel F. **Modelo distribucional de perfis melódicos: uma abordagem morfológica**. Outubro de 2026. Capítulo de livro. Texto em prelo.
 
 ## Referências Complementares
 
